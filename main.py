@@ -3,7 +3,6 @@ import time
 brow = webdriver.Firefox()
 # type(brow)
 brow.get("https://www.star1crm.com.br/crmstar/1crm_login.asp")
-# brow.find_element_by_id("td_login")
 # Acha os campos do form de login
 
 
